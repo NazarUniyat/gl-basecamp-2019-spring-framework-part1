@@ -1,0 +1,3 @@
+rootProject.name = 'gl-guess-number'
+include 'core'
+
